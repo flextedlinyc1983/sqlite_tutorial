@@ -1,0 +1,1 @@
+SELECT count(*) as cnt from sqlite_master where type ='table' and name='DEMO'
